@@ -25,11 +25,11 @@ SQL Developer ( 2022.12 )
 👯 Projects
 <br>
 
-Fount Internship, FactSet DataFeed Based ETF Webdashboard ( 2022.07 ~ 2022.08 )
+Fount Internship, FactSet DataFeed Based ETF Webdashboard ( 2022.07 ~ 2022.08 ) <br>
 => Backend( Django, Apahce Airflow, AWS, Pandas, SQL )
 
-SKT AI Project 2nd Place, Fresh Product Price Comparing and Predicting Speaker ( 2022.09 ~ 2022.12 )
+SKT AI Project 2nd Place, Fresh Product Price Comparing and Predicting Speaker ( 2022.09 ~ 2022.12 ) <br>
 => Backend( Django, Apache Airflow, AWS, Pandas, SQL ), AI( Keras, Sklearn, Numpy )
 
-Hanyang Contest Lion, Asset Management Website ( 2021.07 ~ 2021.12 )
+Hanyang Contest Lion, Asset Management Website ( 2021.07 ~ 2021.12 ) <br>
 => Backend( Spring, AWS ), Frontend( JSP )
