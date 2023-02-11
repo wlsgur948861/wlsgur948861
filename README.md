@@ -1,15 +1,15 @@
-🌱 Education <br>
+🌱 Education <br><br>
 한양대학교 공과대학 정보시스템학과 ( 2017.03 ~ 2023. 06 ) <br>
 => GPA 4.18 / 4.5 <br><br>
 
-🔭 Experience <br>
+🔭 Experience <br><br>
 Fount, Backend Engineer ( 2022.07 ~ 2022.08 ) <br><br>
 
-📫 Certification <br>
-정보처리기사 ( 2022.08 ) <br>
+📫 Certification <br><br>
+정보처리기사 ( 2022.08 ) <br><br>
 SQL Developer ( 2022.12 ) <br><br>
 
-👯 Projects <br>
+👯 Projects <br><br>
 Fount Intership, Factset DataFeed 기반 ETF 웹 대시보드 제작 ( 2022.02 ~ 2022.08 ) <br>
 => Backend( Django, Apahce Airflow, AWS, Pandas, MariaDB ) <br><br>
 
